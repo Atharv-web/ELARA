@@ -1,0 +1,17 @@
+This directory contains tutor profile images.
+
+Required images:
+1. 1.jpg - Urahara Sensei
+2. 2.jpg - Kuchiki Sensei
+3. 3.jpg - Yamamoto Sensei
+4. 4.jpg - Nova Starweaver
+5. 5.jpg - Dr. Quantum Quest
+6. 6.jpg - Professor Echo
+7. 7.jpg - Master Zen
+8. 8.jpg - Coach Phoenix
+
+Image requirements:
+- Square format (1:1 aspect ratio)
+- Recommended size: 400x400 pixels
+- High quality, professional appearance
+- Consistent style across all images 
